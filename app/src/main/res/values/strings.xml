@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Editor_Texto</string>
+    <string name="rbTam22">22 puntos</string>
+    <string name="rbTam24">24 puntos</string>
+    <string name="rbTam26">26 puntos</string>
+    <string name="rbTam28">28 puntos</string>
+    <string name="lblTexto">Hola Mundo</string>
+    <string name="chbNegrita">Negrita</string>
+    <string name="chbCursiva">Cursiva</string>
+    <string name="lblEfecto">Efecto</string>
+    <string name="lblTamano">Tamaño de Texto</string>
+    <string name="chbSubrayado">Subrayado</string>
+    <string name="swSubrayado">Subrayado</string>
+</resources>
